@@ -1,0 +1,19 @@
+<?php
+
+namespace App\Http\Controllers\Admin;
+
+use App\Http\Controllers\Controller;
+use App\Models\Job;
+use App\Models\User;
+
+class DashboardController extends Controller
+{
+    public function index()
+    {
+        return view('admin.dashboard', [
+            'users' => User::count(),
+            'jobs' => Job::count(),
+
+        ]);
+    }
+}
