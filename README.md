@@ -482,7 +482,37 @@ jobconnect/
 └── vite.config.js          # Vite configuration
 ```
 
----
+
+
+## 📸 Screenshots
+### 🏠 Trang chủ
+
+<img width="1882" height="907" alt="image" src="https://github.com/user-attachments/assets/6f6d8afc-8693-433b-b9d5-ba6c234b3530" />
+
+
+### 💼 Chi tiết công việc
+
+<img width="1872" height="840" alt="image" src="https://github.com/user-attachments/assets/2fa3970f-ff13-40e4-a486-996969d9358e" />
+
+
+### 📊 Dashboard Admin
+
+<img width="1895" height="908" alt="image" src="https://github.com/user-attachments/assets/8582633c-948e-4d43-9afb-c45009a58197" />
+
+
+### 🛠️ Quản lý tuyển dụng
+
+<img width="1897" height="901" alt="image" src="https://github.com/user-attachments/assets/11788e10-fc89-4283-b64a-010babc9c7b7" />
+
+
+### 💬 Chat Realtime
+
+<img width="1895" height="921" alt="image" src="https://github.com/user-attachments/assets/c0420a63-7fb3-4ef7-bc46-a8042745fc7b" />
+
+
+### 👤 Hồ sơ ứng viên
+
+<img width="1883" height="915" alt="image" src="https://github.com/user-attachments/assets/0e2b794b-52c0-4799-9b62-0bd418480f20" />
 
 
 ## 📝 Ghi Chú Phát Triển
@@ -498,7 +528,6 @@ jobconnect/
 - 🔐 Two-Factor Authentication (2FA)
 - 🎯 Job recommendations engine
 - 💳 Payment integration (Premium features)
-
 
 
 ## 👨‍💻 Tác Giả
