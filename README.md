@@ -534,7 +534,7 @@ jobconnect/
 
 **Nguyen Duc Nguyen**
 - 📧 Email: nguyenducnguyen201811@gmail.com
-- 🔗 GitHub: https://github.com/T1-Duc-Nguyen
+- 🔗 Phone: 0914719477
 
 ---
 
